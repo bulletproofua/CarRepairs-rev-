@@ -1,16 +1,5 @@
 body {
-  font-size: 22px;
-  margin: 241px;
-}
-body {
-  padding: 0px;
-  margin: 0px;
-  background-color: #ccc;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-}
-.crab {
-  font-size: 50px;
+  padding-top: 80px;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: url('../img/bg2.jpg') no-repeat center center fixed;
 }
